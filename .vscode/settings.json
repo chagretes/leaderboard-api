@@ -1,0 +1,7 @@
+{
+    "dotnet.dotnetPath": "/opt/dotnet",
+    "omnisharp.sdkPath": "/opt/dotnet/sdk/8.0.201/",
+    "dotnetAcquisitionExtension.existingDotnetPath": [
+        "/usr/share/dotnet"
+    ]
+}
